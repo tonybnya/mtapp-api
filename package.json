@@ -1,13 +1,18 @@
 {
   "name": "mtapp-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "API for an Angular e-commerce app named 'mtapp'",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "ALX",
+    "e-commerce",
+    "ecommerce",
+    "Angular"
+  ],
+  "author": "Mehdi Masmar & Tony B. NYA",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.4"
